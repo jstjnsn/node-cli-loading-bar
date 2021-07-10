@@ -3,8 +3,6 @@ const readline = require('readline')
 const size = 50
 let cursor = 0
 
-// console.clear()
-
 process.stdout.write("Loading...\n")
 
 process.stdout.write("\x1B[?25l")
